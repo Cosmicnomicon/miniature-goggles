@@ -4,6 +4,11 @@ create as well as a description of what the tools are meant to be used for, what
 The end goal is simple: eventually be able to beat top players and be able to stay ahead of them once i get ahead of them. Anyone else should also
 be able to use the data provided here to do the same thing. It should be clear, understandable, and reproducible regardless of where someone starts.
 
+Why do this? I need to do a few things that accomplishing *this* would satisfy. The biggest one is 'breaking' a system with a system I have made. I also
+wish to complete an actual project for once, and winning in this game is important for me in my life right now (money). That said, this seems like an okay
+usage of my time given my circumstances in life. Once this is done, I can finally relax on my 'grind' to push my lowest performance far above what I need
+to not lose to random people while I rely on this income.
+
 #######################################################################################
 
 ## **How will this get accomplished?**
@@ -33,6 +38,10 @@ That requires a higher order concept.
 5. **Apply Ideas in New Contexts**
 Try out ideas in spots that might not be intuitive at first, or at all. Oftentimes this produces useful information in almost every context either through
 knowing the limits of the idea *or* you may find patterns you wouldn't have otherwise. Overall this is something that should be done a lot.
+
+**These should be used with the understanding that while you learn, there will always be unknowns. The goal of using this set of tools is to reduce that.**
+**Even after I define everything, unknowns will still exist. Some unknowns we will know exist (ideally on purpose), some will be the same set we're looking**
+**at right now. The same process should be used to reduce it further. Once I'm sufficiently 'ahead' I will stop following this loop.**
 
 #######################################################################################
 
