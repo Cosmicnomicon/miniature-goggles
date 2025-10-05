@@ -4,9 +4,11 @@ create as well as a description of what the tools are meant to be used for, what
 The end goal is simple: eventually be able to beat top players and be able to stay ahead of them once i get ahead of them. Anyone else should also
 be able to use the data provided here to do the same thing. It should be clear, understandable, and reproducible regardless of where someone starts.
 
-######################################################################################
+#######################################################################################
 
-How will this get accomplished? The same way any other problem gets solved: description of events and a clear path for recreating consequences.
+## **How will this get accomplished?**
+
+The same way any other problem gets solved: description of events and a clear path for recreating consequences.
 If I assume that I either know nothing or know the wrong things, using tools which correctly describe events and teach me to recreate the situations
 I need to in order to win, then the tools provided here *should* course correct me (or anyone else) over time through repeated use. So... let's start
 with nothing but a few tools for gathering information anywhere:
@@ -43,3 +45,10 @@ more blank space there is, the better you can adapt it to any arbitrary situatio
 **a defined solution for everything. This is because in smash, there isn't enough time to plot out a solution for every case. Sure, you could learn to over**
 **time and that does happen naturally with a lot of players and the meta-game in general. But top players tend to stay on top for a reason... let's keep**
 **everything adaptable instead of waiting for things to change so we can learn from someone else. Sound good? Sounds good for my purposes.**
+
+#######################################################################################
+
+## **Logging**
+
+Logging is... difficult. The idea is that github should handle version control for me, but I will make an effort to jot down general ideas I have into
+a separate file as well as another file for keeping track of ideas I have thrown out or added along with why for each.
