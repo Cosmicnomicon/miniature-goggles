@@ -42,6 +42,7 @@ knowing the limits of the idea *or* you may find patterns you wouldn't have othe
 **These should be used with the understanding that while you learn, there will always be unknowns. The goal of using this set of tools is to reduce that.**
 **Even after I define everything, unknowns will still exist. Some unknowns we will know exist (ideally on purpose), some will be the same set we're looking**
 **at right now. The same process should be used to reduce it further. Once I'm sufficiently 'ahead' I will stop following this loop.**
+**Every tool that I create needs to be created either from using these tools or from ones I make through the usage of these tools.**
 
 #######################################################################################
 
@@ -60,4 +61,9 @@ more blank space there is, the better you can adapt it to any arbitrary situatio
 ## **Logging**
 
 Logging is... difficult. The idea is that github should handle version control for me, but I will make an effort to jot down general ideas I have into
-a separate file as well as another file for keeping track of ideas I have thrown out or added along with why for each.
+a separate file as well as another file for keeping track of ideas I have thrown out or added along with why for each. The point of logging is to not only
+remember what I was thinking throughout the process for future use (because I will forget in several months time) but also for memorization. Do it right.
+I should also outline a process for testing ideas and criteria for determining whether or not they are useful before removing them from the ideas.md file.
+I currently do not have an outlined process for this and have been going off of feeling for the longest time. I should address that for the sake of making
+sure anyone else can also follow my reasoning and use it themselves if they determine that my process is better than their own. I could also receive feedback
+from others through making it tangible and reproducible like this.
