@@ -1,4 +1,4 @@
-My intention with this project is to be able to perceieve the mental of top players and also make the tools to come up with solutions for problems they
+My intention with this project is to be able to perceive the mental of top players and also make the tools to come up with solutions for problems they
 create as well as a description of what the tools are meant to be used for, what they describe, and a process for implementing them.
 
 The end goal is simple: eventually be able to beat top players and be able to stay ahead of them once i get ahead of them. Anyone else should also
@@ -15,8 +15,23 @@ to not lose to random people while I rely on this income.
 
 The same way any other problem gets solved: description of patterns and a clear path for recreating consequences.
 If I assume that I either know nothing or know the wrong things, using tools which correctly describe events and teach me to recreate the situations
-I need to in order to win, then the tools provided here *should* course correct me (or anyone else) over time through repeated use. So... let's start
-with nothing but a few tools for gathering information anywhere:
+I need to in order to win, then the tools provided here *should* course correct me (or anyone else) over time through repeated use. But first I need to
+define what a tool actually is and what it's for. So... let's start with that.
+
+> A tool is a bounded system that, when applied to a situation in its domain, extracts information or structure useful for explanation or action.
+
+**Each tool transforms specific inputs (such as in-game states, opponent behaviors, or internal triggers) into structured outputs like evaluations,**
+**action suggestions, or mental state updates. The goal is to make unpredictable or complex situations explainable and navigable under pressure.**
+**Tools are designed to:**
+
+*Operate within a clearly defined domain*
+*Produce useful representations, even with very little time*
+*Leave room for ambiguity (“blank space”) to support creativity*
+*Be composable — they interact with each other to form adaptive systems*
+*Fail visibly and non-catastrophically, enabling correction*
+
+If this definition of a tool is good enough... then we need tools to start with for gathering information from the massive set of unknown unknowns
+in front of us now:
 
 1. **Displace the Frame**
 Typically useful for redirecting someone who thinks they know a good set of tools for gathering information. This means give up what you think is
@@ -32,24 +47,24 @@ Take apart an "absolute truth" that we believe and see if it can be broken into 
 tangled up in a higher order concept.
 
 4. **Look for Conceptual Negative Space**
-Find where your tools don't cover. For example, the concept of space doesn't explain how people *use* space, nor when it's being used for something.
-That requires a higher order concept.
+Find where your tools don't or can't be used. For example, the concept of space doesn't explain how people *use* space, nor when it's being used for
+something. That requires a higher order concept.
 
 5. **Apply Ideas in New Contexts**
 Try out ideas in spots that might not be intuitive at first, or at all. Oftentimes this produces useful information in almost every context either through
 knowing the limits of the idea *or* you may find patterns you wouldn't have otherwise. Overall this is something that should be done a lot.
 
-**These should be used with the understanding that while you learn, there will always be unknowns. The goal of using this set of tools is to reduce that.**
-**Even after I define everything, unknowns will still exist. Some unknowns we will know exist (ideally on purpose), some will be the same set we're looking**
-**at right now. The same process should be used to reduce it further. Once I'm sufficiently 'ahead' I will stop following this loop.**
-**Every tool that I create needs to be created either from using these tools or from ones I make through the usage of these tools.**
+*These should be used with the understanding that while you learn, there will always be unknowns. The goal of using this set of tools is to reduce that.*
+*Even after I define everything, unknowns will still exist. Some unknowns we will know exist (ideally on purpose), some will be the same set we're looking*
+*at right now. The same process should be used to reduce it further. Once I'm sufficiently 'ahead' I will stop following this loop.*
+*Every tool that I create needs to be created either from using these tools or from ones I make through the usage of these tools.*
 
 #######################################################################################
 
-This talks a lot about the space concepts and ideas/tools cover. One could make the argument that the idea should be to create tools which cover every
-single possibility, but even if it were possible to do so it is extremely inefficient time and effort-wise to do so. I think a better strategy would be
-to set up tools in a way that has a lot of 'blank space'. In other words, leave the tool abstract enough to adapt to the situations you apply it to. The
-more blank space there is, the better you can adapt it to any arbitrary situation.
+This talks a lot about the space concepts and ideas/tools cover. One could make the argument that the path we should follow is to create tools which cover
+every single possibility, but even if it were possible to do so it is extremely inefficient time and effort-wise to do so. I think a better strategy would
+be to set up tools in a way that has a lot of 'blank space'. In other words, leave the tool abstract enough to adapt to the situations you apply it to. The
+more (meaningful) blank space there is, the better you can adapt it to any arbitrary situation.
 
 **I have made the assumption that using intuition (the internal understanding one has of an arbitrary situation) is necessary and better than having**
 **a defined solution for everything. This is because in smash, there isn't enough time to plot out a solution for every case. Sure, you could learn to over**
