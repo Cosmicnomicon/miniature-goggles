@@ -30,6 +30,8 @@ define what a tool actually is and what it's for. So... let's start with that.
 *Be composable — they interact with each other to form adaptive systems*
 *Fail visibly and non-catastrophically, enabling correction*
 
+**all able to be applied anywhere and still produce usable information**
+
 If this definition of a tool is good enough... then we need tools to start with for gathering information from the massive set of unknown unknowns
 in front of us now:
 
@@ -58,6 +60,10 @@ knowing the limits of the idea *or* you may find patterns you wouldn't have othe
 *Even after I define everything, unknowns will still exist. Some unknowns we will know exist (ideally on purpose), some will be the same set we're looking*
 *at right now. The same process should be used to reduce it further. Once I'm sufficiently 'ahead' I will stop following this loop.*
 *Every tool that I create needs to be created either from using these tools or from ones I make through the usage of these tools.*
+
+*These tools should work regardless of the environment you apply them in. Once we apply them to smash, we should get specialized and contextually useful*
+*tools that will work specifically for fighting games as a whole, since many top players play more than just smash it's necessary to encompass the*
+*insight that is derived from those games as well as Smash.*
 
 #######################################################################################
 
