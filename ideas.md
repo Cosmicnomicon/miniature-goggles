@@ -8,3 +8,8 @@ that this is what I'll use I'm keeping this here.
 Some of your intuitions about this game are correct and have been tested/solved countless times. You still need
 to determine whether or not the solution actually fits in your new frame. Maybe it could be solved in a more robust way
 using a different set of tools. TLDR just check the conceptual space first, either in theory or 'practice'.
+
+**Try setting boundaries for data that bend when awareness of said boundaries is present, or just absorb awareness instead**
+Entropy and isolation generally lead to stagnation over time. The internet also tends to prove this, however some people manage to improve
+and get smarter over time despite this. Some use communities, but what about people in isolated regions that manage to improve without access
+to the generational knowledge that others have? It seems that there are patterns that could be found here which could be used to achieve growth in isolation.
