@@ -11,3 +11,8 @@ Modified the logging section in readme as well as a new line at the bottom of st
 # 10/5/25 19:51:53
 Modified a line in readme.md.
 **Why?** "description of events" was too narrow, "description of patterns" is more generalizable and applicable.
+
+# 10/5/25 20:19:30
+Modified the starting tooling section in readme.md
+**Why?** I want the starting point where we begin to reduce unknowns to be as clear and airtight as possible. The better this is, the easier
+everything afterwards should follow.
