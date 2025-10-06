@@ -13,7 +13,7 @@ to not lose to random people while I rely on this income.
 
 ## **How will this get accomplished?**
 
-The same way any other problem gets solved: description of events and a clear path for recreating consequences.
+The same way any other problem gets solved: description of patterns and a clear path for recreating consequences.
 If I assume that I either know nothing or know the wrong things, using tools which correctly describe events and teach me to recreate the situations
 I need to in order to win, then the tools provided here *should* course correct me (or anyone else) over time through repeated use. So... let's start
 with nothing but a few tools for gathering information anywhere:
