@@ -13,3 +13,8 @@ using a different set of tools. TLDR just check the conceptual space first, eith
 Entropy and isolation generally lead to stagnation over time. The internet also tends to prove this, however some people manage to improve
 and get smarter over time despite this. Some use communities, but what about people in isolated regions that manage to improve without access
 to the generational knowledge that others have? It seems that there are patterns that could be found here which could be used to achieve growth in isolation.
+
+**Question the purpose of everything. Including the points you use to reduce the initial set of unknown unknowns.**
+The scientific method, or anything i derive to force trajectory needs to be made sure to do its job. Question if trajectory is the right 'tool' for
+the job. Maybe there's better ones. Question the assumption that you need a tool in the first place. Maybe you'll get some interesting information.
+It's more than just worth a shot, it's necessary to bake recursion into the loop or else stagnation is inevitable.
