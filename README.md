@@ -39,6 +39,8 @@ in front of us now:
 Typically useful for redirecting someone who thinks they know a good set of tools for gathering information. This means give up what you think is
 "right" and take what I'm saying here with some level of seriousness. Even if just to consider the validity of it, being receptive to information
 is the only way to learn. If you're here to learn... do it right. Listen, then decide afterwards.
+Besides this you can also move around assumptions, boundaries and premises (within contextual allowances), or incorporate new ones from other domains
+or new research.
 
 2. **Invert the Concept**
 Take an idea and try to invert it. This isn't always useful, but it does show sometimes what the tool itself doesn't tell you when you use it.
