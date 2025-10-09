@@ -16,3 +16,7 @@ Modified a line in readme.md.
 Modified the starting tooling section in readme.md
 **Why?** I want the starting point where we begin to reduce unknowns to be as clear and airtight as possible. The better this is, the easier
 everything afterwards should follow.
+
+# 10/7/25 22:39:16
+Modified the initial knowledge gathering tool in readme.md
+**Why?** It was too narrow in its usage description to be as useful as possible. It should now cover every conceptual use case possible.
