@@ -108,6 +108,8 @@ using a different set of tools. TLDR just check the conceptual space first, eith
 Entropy and isolation generally lead to stagnation over time. The internet also tends to prove this, however some people manage to improve
 and get smarter over time despite this. Some use communities, but what about people in isolated regions that manage to improve without access
 to the generational knowledge that others have? It seems that there are patterns that could be found here which could be used to achieve growth in isolation.
+//////////////////////
+This is effectively the local minima problem. Find a way to make escape from local minima the default and you solve most of what's mentioned here.
 
 **Question the purpose of everything. Including the points you use to reduce the initial set of unknown unknowns.**
 The scientific method, or anything i derive to force trajectory needs to be made sure to do its job. Question if trajectory is the right 'tool' for
@@ -124,3 +126,17 @@ Therefore tools and boundaries = intelligence/knowledge
 **Make tools which find pattern structure, not just the existence of a pattern.**
 The location of meaningful abstract patterns in data matters just as much as the pattern itself. If you don't have ways to find them, teaching others
 and yourself becomes much more reliant on luck/entropy.
+
+**Define what a pattern is.**
+This matters because it is the crux of my design philosophy.
+
+**Learning new things often requires shifting your intent away from previous goals**
+Doing the same thing repeatedly doesn't often yield new information *unless* the goal is to see if something breaks.
+Or if you know something *will* break, then checking where still requires shifting intent.
+
+**Look for ways to add dimensions to knowledge, not just refinement of data/understanding**
+Dimensions also need to have some way of being found... nobody knows they exist until they are found after all. Maybe they exist at the
+intersection of blank spaces between existing dimensions or systems?
+
+**Understanding and exploitation are not the same.**
+Exploitation appears to be when a pattern/system becomes an input to another system.
