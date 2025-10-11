@@ -140,3 +140,7 @@ intersection of blank spaces between existing dimensions or systems?
 
 **Understanding and exploitation are not the same.**
 Exploitation appears to be when a pattern/system becomes an input to another system.
+////////////////////
+**Recognize that this framework for thinking and solution-searching is the exact same as any other system: Input to Output.**
+This system harvests knowledge and information, the system I plan to use this for should make me a top player in smash (or another fg). The domains
+may be different but the process for getting there is the same, so the same rules should apply regardless of domain.
