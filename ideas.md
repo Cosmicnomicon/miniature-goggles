@@ -33,17 +33,17 @@ The way our new system needs to work is as such:
                        ▼
         ┌───────────────────────────────┐
         │   1. SCAN & GATHER SIGNALS    │
-        │ - Observe freely; log anomalies│
-        │ - Note context, environment,   │
-        │   and entropy factors.         │
+        │ - Observe freely;log anomalies│
+        │ - Note context, environment,  │
+        │   and entropy factors.        │
         └──────────────┬────────────────┘
                        │
                        ▼
         ┌───────────────────────────────┐
         │   2. FORMULATE CANDIDATE TOOL │
         │ - Hypothesis or rule-of-thumb │
-        │ - Define inputs → outputs      │
-        │ - Predict expected structure   │
+        │ - Define inputs → outputs     │
+        │ - Predict expected structure  │
         └──────────────┬────────────────┘
                        │
                        ▼
@@ -128,7 +128,13 @@ The location of meaningful abstract patterns in data matters just as much as the
 and yourself becomes much more reliant on luck/entropy.
 
 **Define what a pattern is.**
-This matters because it is the crux of my design philosophy.
+This matters because it is the crux of my design philosophy.///////////////////////////////////////
+**Define how to track down the patterns that actually matter in the system.**
+This matters because this is how the scientific method actually gets outclassed. Otherwise your new system breaks to systems problems too.
+You could optionally ignore this step sometimes for the sake of exploration but the understanding is that progress is made when consolidation
+and simplification happens without losing nuance.////////////////////////////
+**Patterns that matter are just parts of the system and patterns are emergent consequences derived from parts interacting.**
+Find how to find parts of an arbitrary system, then let data collection start. Stops random data found from becoming meaningless.
 
 **Learning new things often requires shifting your intent away from previous goals**
 Doing the same thing repeatedly doesn't often yield new information *unless* the goal is to see if something breaks.
