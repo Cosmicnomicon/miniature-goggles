@@ -11,7 +11,7 @@ Empathy (your capacity to perceive/understand your opponent's mind/options, gott
 
 Emergent tools:
 Tempo (Empathy + Time: knowing when your opponent takes their turn / when it is your turn)
-Awareness (Empathy + Mechanics + Kits + Tempo)
-Pressure (Awareness + ???)
+Awareness (Empathy + Mechanics + Kits + Time + Tempo: The set of things you are thinking about at any given time, and when they're ready for them)
+Pressure (Awareness + ???: A perceived threat. Typically forces people to change their decisions or encourages short-sighted mashing)
 Movement (Mechanics + Kits + Space + Time: How your character can interact with and control space over time)
 Zoning/Positioning (Mechanics + Kits + Space + Time + Empathy: Where to cover/be with x options based on y context)
